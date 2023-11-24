@@ -12,7 +12,7 @@ public class DemoIncrementdecrement {
 		
 		//Post Decrement
 		int ii=4;
-		int jj=i--;
+		int jj=ii--;
 		System.out.println(ii);
 		System.out.println(jj);
 		
